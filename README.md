@@ -3,7 +3,7 @@
 1. Small Program
 bash
 python foobar.py
-<img width="938" height="292" alt="image" src="https://github.com/user-attachments/assets/d6e7780d-f808-4590-a4fc-a73350ff7aef" />
+<img width="938" height="292" alt="image" src="https://github.com/user-attachments/assets/e8d1035e-3dd5-424b-9a52-d211de4f0442" />
 
 3. Weather Forecast Jakarta (5 hari)
 bash
